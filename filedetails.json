@@ -9,10 +9,10 @@ remote 10.13.140.90 udp
 remote 10.13.140.90 udp
 remote 10.13.140.90 tcp
 remote 10.13.140.90 udp
-remote 34.94.202.74 1194 udp
-remote 34.94.202.74 1194 udp
-remote 34.94.202.74 1194 udp
-remote 34.94.202.74 1194 udp
+remote 10.12.61.189 udp
+remote 10.12.61.189 udp
+remote 10.12.61.189 udp
+remote 10.12.61.189 udp
 dev tun
 dev-type tun
 ns-cert-type server
